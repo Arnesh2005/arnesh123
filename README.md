@@ -6,4 +6,4 @@
 
 ### 📫 Connect with me
 - GitHub: 
-- LinkedIn: https://www.linkedin.com/in/arneshkar2005?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7yXKzj%2BUReqvvvdc9lvTOw%3D%3D
+- LinkedIn: linkedin.com/in/arneshkar2005
