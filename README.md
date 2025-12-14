@@ -4,16 +4,6 @@
 💻 Interested in DSA, Web Development & Machine Learning  
 🚀 Exploring open source and real-world projects  
 
-### 🔧 Tech Stack
-- Languages: C++, Python, JavaScript
-- Web: HTML, CSS, React (learning)
-- ML: NumPy, Pandas, scikit-learn
-
-### 📌 Current Focus
-- Improving Codeforces rating
-- Building ML projects
-- Contributing to open source
-
 ### 📫 Connect with me
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: 
+- LinkedIn: https://www.linkedin.com/in/arneshkar2005?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7yXKzj%2BUReqvvvdc9lvTOw%3D%3D
