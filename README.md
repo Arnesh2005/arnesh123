@@ -1,8 +1,8 @@
-# ## Hi 👋 I'm Arnesh
+# Hi,👋 I'm Arnesh
 
 🎓 Student at IIT BHU  
 💻 Interested in DSA, Web Development & Machine Learning  
-🚀 Exploring open source and real-world projects  
+🚀 Want to explore open source and real-world projects  
 
 ### 📫 Connect with me
 - GitHub: 
